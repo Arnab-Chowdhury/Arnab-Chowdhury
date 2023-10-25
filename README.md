@@ -1,6 +1,6 @@
 ### Hi there 👋
  
-<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://github.com/Arnab-Chowdhury/images/facebook.png" alt=”Arnab | Facebook” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/Arnab-Chowdhury/Arnab-Chowdhury/main/images/facebook.png" alt=”icon | Facebook” width=”21px”/></a>
 
 <p float="left">
   <a href="https://www.youtube.com/watch?v=TLTP0T7CQCU" target="_blank" rel="noopener noreferrer">
