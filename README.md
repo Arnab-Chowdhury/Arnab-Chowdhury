@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Watch the video](https://img.youtube.com/vi/mFQ3ONXcxBs&ab/hqdefault.jpg)](https://www.youtube.com/embed/mFQ3ONXcxBs&ab)
+[![Watch the video](https://img.youtube.com/vi/mFQ3ONXcxBs/hqdefault.jpg)](https://www.youtube.com/embed/mFQ3ONXcxBs)
 
 <!--
 **Arnab-Chowdhury/Arnab-Chowdhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
