@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Facebook](https://www.flaticon.com/free-icons/facebook)](https://www.facebook.com/El.astrofisicio/)
+[![Facebook](https://www.flaticon.com/free-icon/facebook_1051309)](https://www.facebook.com/El.astrofisicio/)
 
 
 
