@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Watch the video](https://img.youtube.com/vi/TLTP0T7CQCU/hqdefault.jpg)](https://www.youtube.com/embed/TLTP0T7CQCU)
 
 [![Watch the video](https://img.youtube.com/vi/mFQ3ONXcxBs/hqdefault.jpg)](https://www.youtube.com/embed/mFQ3ONXcxBs)
 
