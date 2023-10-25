@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[![Watch the video](https://img.youtube.com/vi/<https://youtu.be/mFQ3ONXcxBs?si=3i77gVGEn_vsYiWY>/hqdefault.jpg)](https://www.youtube.com/embed/<https://youtu.be/mFQ3ONXcxBs?si=3i77gVGEn_vsYiWY>)
+
+[<img src="https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/<https://youtu.be/mFQ3ONXcxBs?si=3i77gVGEn_vsYiWY>)
+
+
 <!--
 **Arnab-Chowdhury/Arnab-Chowdhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
