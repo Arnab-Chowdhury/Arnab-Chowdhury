@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-[![Facebook](https://www.flaticon.com/free-icon/facebook_1051309)](https://www.facebook.com/El.astrofisicio/)
-
-
-
 <p float="left">
   <a href="https://www.youtube.com/watch?v=TLTP0T7CQCU" target="_blank" rel="noopener noreferrer">
     <img src="https://img.youtube.com/vi/TLTP0T7CQCU/0.jpg" alt="Video 1" width="200" />
