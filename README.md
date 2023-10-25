@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-[![Watch the video](https://img.youtube.com/vi/<https://youtu.be/mFQ3ONXcxBs?si=3i77gVGEn_vsYiWY>/hqdefault.jpg)](https://www.youtube.com/embed/<https://youtu.be/mFQ3ONXcxBs?si=3i77gVGEn_vsYiWY>)
-
-[<img src="https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/<https://youtu.be/mFQ3ONXcxBs?si=3i77gVGEn_vsYiWY>)
-
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mFQ3ONXcxBs?si=XpPwl1jFU4RlZdya" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <!--
 **Arnab-Chowdhury/Arnab-Chowdhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
