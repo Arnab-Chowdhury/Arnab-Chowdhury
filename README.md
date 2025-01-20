@@ -2,7 +2,7 @@
 
 <p float="left">
   <a href="https://www.youtube.com/playlist?list=PLkK9xcMC3HVwJMTA9DBQIOcagbJzvC_tE" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.youtube.com/vi/sHbiwygVPLs/0.jpg" alt="Playlist" width="200" />
+    <img src="https://img.youtube.com/vi/K0qmJOBzS5I/0.jpg" alt="Playlist" width="200" />
   </a>
   <a href="https://www.youtube.com/watch?v=_PwMN6EQwX0" target="_blank" rel="noopener noreferrer">
     <img src="https://img.youtube.com/vi/_PwMN6EQwX0/0.jpg" alt="Video 2" width="200" />
