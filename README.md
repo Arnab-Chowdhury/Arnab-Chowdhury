@@ -4,8 +4,8 @@
   <a href="https://www.youtube.com/playlist?list=PLkK9xcMC3HVwJMTA9DBQIOcagbJzvC_tE" target="_blank" rel="noopener noreferrer">
     <img src="https://img.youtube.com/vi/K0qmJOBzS5I/0.jpg" alt="Playlist" width="200" />
   </a>
-  <a href="https://www.youtube.com/watch?v=_PwMN6EQwX0" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.youtube.com/vi/_PwMN6EQwX0/0.jpg" alt="Video 2" width="200" />
+  <a href="https://www.youtube.com/playlist?list=PLkK9xcMC3HVxJItcfxEWpa6OOhoa05rwz" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.youtube.com/vi/twwKuBNE070/0.jpg" alt="Video 2" width="200" />
   </a>
   <a href="https://www.youtube.com/watch?v=WPdw0SrzncA" target="_blank" rel="noopener noreferrer">
     <img src="https://img.youtube.com/vi/WPdw0SrzncA/0.jpg" alt="Video 3" width="200" />
