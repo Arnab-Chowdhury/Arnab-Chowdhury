@@ -4,6 +4,8 @@ I'm a **Lecturer in Civil Engineering at the University of Asia Pacific, Banglad
 
 I work on traffic simulation and signal timing optimisation. I also teach civil engineering and help students explore astronomy through Olympiads.
 
+[Connect with me on LinkedIn](https://www.linkedin.com/in/arnabz/)
+
 ## For students
 
 Looking for something to learn from or experiment with? Start here:
@@ -47,7 +49,7 @@ This project uses evolutionary game theory to allocate signal green time in a SU
 
 ## Astronomy & outreach
 
-I volunteer with the **Bangladesh Olympiad on Astronomy and Astrophysics (BDOAA)** as an advisor and have served as a Bangladesh team leader at the **International Olympiad on Astronomy and Astrophysics (IOAA)**.
+I volunteer with the **Bangladesh Olympiad on Astronomy and Astrophysics (BDOAA)** as an advisor. I served as **Team Leader of the Bangladesh delegation in 2020, 2021, 2025, and 2026**. My work includes mentoring students for international astronomy competitions, including the **International Olympiad on Astronomy and Astrophysics (IOAA)**.
 
 Teaching, developing learning materials, and helping students work through unfamiliar problems are a big part of what I enjoy.
 
